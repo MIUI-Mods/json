@@ -5,8 +5,8 @@ import requests
 
 
 # Configuration
-REPO_NAME = "Magic-Mask-Repo"
-REPO_TITLE = "Magic Mask"
+REPO_NAME = "MIUI-Mods"
+REPO_TITLE = "MIUI Mods"
 
 
 def json_parse(text):
