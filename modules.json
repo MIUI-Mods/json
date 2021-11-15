@@ -1,5 +1,21 @@
 {
     "last_update": 1636885704000,
-    "modules": [],
+    "modules": [
+        {
+            "id": "MiuiAnimatedIcons",
+            "last_update": 1637013709000,
+            "notes_url": "https://raw.githubusercontent.com/MIUI-Mods/MIUI-ANIMATED-ICONS/master/README.md",
+            "prop_content": {
+                "author": "@aadilgillani & @trzpro",
+                "description": "Miui Animated Icons Extracted From lmipro",
+                "id": "MiuiAnimatedIcons",
+                "name": "MiuiAnimatedIcons",
+                "version": "1",
+                "versionCode": "1"
+            },
+            "prop_url": "https://raw.githubusercontent.com/MIUI-Mods/MIUI-ANIMATED-ICONS/master/module.prop",
+            "zip_url": "https://github.com/MIUI-Mods/MIUI-ANIMATED-ICONS/archive/master.zip"
+        }
+    ],
     "name": "MIUI Mods"
 }
