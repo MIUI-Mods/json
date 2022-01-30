@@ -16,6 +16,38 @@
             },
             "prop_url": "https://raw.githubusercontent.com/MIUI-Mods/MagiskHidePropsConf/master/module.prop",
             "zip_url": "https://github.com/MIUI-Mods/MagiskHidePropsConf/archive/master.zip"
+        },
+        {
+            "id": "riru-core",
+            "last_update": 1643326357000,
+            "notes_url": "https://raw.githubusercontent.com/MIUI-Mods/riru-core/master/README.md",
+            "prop_content": {
+                "author": "Rikka, yujincheng08",
+                "description": "Inject into zygote and run codes from \"Riru\" modules in apps or the system server. Support modules which use Riru API v24+.",
+                "id": "riru-core",
+                "name": "Riru",
+                "riruApi": "26",
+                "riruMinApi": "24",
+                "version": "v26.1.4.r522.8b379cedb5",
+                "versionCode": "522"
+            },
+            "prop_url": "https://raw.githubusercontent.com/MIUI-Mods/riru-core/master/module.prop",
+            "zip_url": "https://github.com/MIUI-Mods/riru-core/archive/master.zip"
+        },
+        {
+            "id": "riru_lsposed",
+            "last_update": 1643301468000,
+            "notes_url": "https://raw.githubusercontent.com/MIUI-Mods/riru_lsposed/master/README.md",
+            "prop_content": {
+                "author": "LSPosed Developers",
+                "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12, 12L DP1. Requires Riru 25.0.1 or above installed.",
+                "id": "riru_lsposed",
+                "name": "Riru - LSPosed",
+                "version": "v1.6.5 (6272)",
+                "versionCode": "6272"
+            },
+            "prop_url": "https://raw.githubusercontent.com/MIUI-Mods/riru_lsposed/master/module.prop",
+            "zip_url": "https://github.com/MIUI-Mods/riru_lsposed/archive/master.zip"
         }
     ],
     "name": "MIUI Mods"
