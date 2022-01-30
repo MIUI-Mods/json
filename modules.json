@@ -1,21 +1,5 @@
 {
     "last_update": 1636885704000,
-    "modules": [
-        {
-            "id": "iconanim",
-            "last_update": 1637016935000,
-            "notes_url": "https://raw.githubusercontent.com/MIUI-Mods/MIUI-ANIMATED-ICONS/master/README.md",
-            "prop_content": {
-                "author": "@aadilgillani & @trzpro",
-                "description": "Enable Icon Animation on Low-end Xiaomi Devices running MIUI ",
-                "id": "iconanim",
-                "name": "Miui Animated Icons",
-                "version": "3",
-                "versionCode": "3"
-            },
-            "prop_url": "https://raw.githubusercontent.com/MIUI-Mods/MIUI-ANIMATED-ICONS/master/module.prop",
-            "zip_url": "https://github.com/MIUI-Mods/MIUI-ANIMATED-ICONS/archive/master.zip"
-        }
-    ],
+    "modules": [],
     "name": "MIUI Mods"
 }
