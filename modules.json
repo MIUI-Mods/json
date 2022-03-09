@@ -2,6 +2,69 @@
     "last_update": 1636885704000,
     "modules": [
         {
+            "id": "Detach",
+            "last_update": 1636740339000,
+            "notes_url": "https://raw.githubusercontent.com/MIUI-Mods/Detach/master/README.md",
+            "prop_content": {
+                "author": "hinxnz, Rom, Sobuj53",
+                "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk.",
+                "id": "Detach",
+                "name": "Detach",
+                "version": "v5.3",
+                "versionCode": "530"
+            },
+            "prop_url": "https://raw.githubusercontent.com/MIUI-Mods/Detach/master/module.prop",
+            "zip_url": "https://github.com/MIUI-Mods/Detach/archive/master.zip"
+        },
+        {
+            "id": "energizedprotection",
+            "last_update": 1636740336000,
+            "notes_url": "https://raw.githubusercontent.com/MIUI-Mods/energizedprotection/master/README.md",
+            "prop_content": {
+                "author": "AdroitAdorKhan",
+                "description": "Let's make an annoyance free better open internet, altogether! https://energized.pro",
+                "id": "energizedprotection",
+                "name": "Energized Protection",
+                "version": "1.3.5",
+                "versionCode": "210513135"
+            },
+            "prop_url": "https://raw.githubusercontent.com/MIUI-Mods/energizedprotection/master/module.prop",
+            "zip_url": "https://github.com/MIUI-Mods/energizedprotection/archive/master.zip"
+        },
+        {
+            "id": "gvisualmod",
+            "last_update": 1646801489000,
+            "notes_url": "https://raw.githubusercontent.com/MIUI-Mods/G-VisualMod/master/README.md",
+            "prop_content": {
+                "author": "Gnonymous7",
+                "description": "Systemlessy customize your Android's Visual!",
+                "id": "gvisualmod",
+                "name": "G-Visual Mod",
+                "support": "Gnonymous7 @ XDA & Telegram",
+                "version": "v4.1",
+                "versionCode": "36"
+            },
+            "prop_url": "https://raw.githubusercontent.com/MIUI-Mods/G-VisualMod/master/module.prop",
+            "zip_url": "https://github.com/MIUI-Mods/G-VisualMod/archive/master.zip"
+        },
+        {
+            "id": "magisk-drm-disabler",
+            "last_update": 1646529814000,
+            "notes_url": "https://raw.githubusercontent.com/MIUI-Mods/magisk-drm-disabler/master/README.md",
+            "prop_content": {
+                "author": "Atrate",
+                "description": "A Magisk Module aiming to eliminate DRM from Android systemlessly.",
+                "id": "magisk-drm-disabler",
+                "minMagisk": "2000",
+                "name": "Magisk DRM Disabler (MDD)",
+                "support": "https://gitlab.com/Atrate/magisk-drm-disabler",
+                "version": "v1.3.1",
+                "versionCode": "131"
+            },
+            "prop_url": "https://raw.githubusercontent.com/MIUI-Mods/magisk-drm-disabler/master/module.prop",
+            "zip_url": "https://github.com/MIUI-Mods/magisk-drm-disabler/archive/master.zip"
+        },
+        {
             "id": "MagiskHidePropsConf",
             "last_update": 1643545247000,
             "notes_url": "https://raw.githubusercontent.com/MIUI-Mods/MagiskHidePropsConf/master/README.md",
@@ -16,6 +79,36 @@
             },
             "prop_url": "https://raw.githubusercontent.com/MIUI-Mods/MagiskHidePropsConf/master/module.prop",
             "zip_url": "https://github.com/MIUI-Mods/MagiskHidePropsConf/archive/master.zip"
+        },
+        {
+            "id": "miui-10-sounds",
+            "last_update": 1636740758000,
+            "notes_url": "https://raw.githubusercontent.com/MIUI-Mods/miui-10-sounds/master/README.md",
+            "prop_content": {
+                "author": "4PERTURE",
+                "description": "This module adds the nice MIUI 10 sounds to any ROM, systemlessly.",
+                "id": "miui-10-sounds",
+                "name": "MIUI 10 Sound Pack",
+                "version": "1.3",
+                "versionCode": "1"
+            },
+            "prop_url": "https://raw.githubusercontent.com/MIUI-Mods/miui-10-sounds/master/module.prop",
+            "zip_url": "https://github.com/MIUI-Mods/miui-10-sounds/archive/master.zip"
+        },
+        {
+            "id": "iconanim",
+            "last_update": 1637017204000,
+            "notes_url": "https://raw.githubusercontent.com/MIUI-Mods/MIUI-ANIMATED-ICONS/master/README.md",
+            "prop_content": {
+                "author": "@aadilgillani & @trzpro",
+                "description": "Enable Icon Animation on Low-end Xiaomi Devices running MIUI ",
+                "id": "iconanim",
+                "name": "Miui Animated Icons",
+                "version": "3",
+                "versionCode": "3"
+            },
+            "prop_url": "https://raw.githubusercontent.com/MIUI-Mods/MIUI-ANIMATED-ICONS/master/module.prop",
+            "zip_url": "https://github.com/MIUI-Mods/MIUI-ANIMATED-ICONS/archive/master.zip"
         },
         {
             "id": "riru-core",
@@ -48,6 +141,21 @@
             },
             "prop_url": "https://raw.githubusercontent.com/MIUI-Mods/riru_lsposed/master/module.prop",
             "zip_url": "https://github.com/MIUI-Mods/riru_lsposed/archive/master.zip"
+        },
+        {
+            "id": "Systemless_TZData",
+            "last_update": 1646529810000,
+            "notes_url": "https://raw.githubusercontent.com/MIUI-Mods/Systemless_TZData/master/README.md",
+            "prop_content": {
+                "author": "Ryaniskira & Nkh0472 & GrayJackFixxxer",
+                "description": "Update your ROM's tzdata (timezone data) file systemlessly. 2020F is installed on Android 10 and above, 2020A is installed on older versions.",
+                "id": "Systemless_TZData",
+                "name": "Systemless TZData",
+                "version": "2020A&F",
+                "versionCode": "16"
+            },
+            "prop_url": "https://raw.githubusercontent.com/MIUI-Mods/Systemless_TZData/master/module.prop",
+            "zip_url": "https://github.com/MIUI-Mods/Systemless_TZData/archive/master.zip"
         }
     ],
     "name": "MIUI Mods"
